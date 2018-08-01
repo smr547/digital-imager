@@ -4,7 +4,7 @@ After 40 years working as a sofware engineer I'm keen to persue my old hobbies o
 
 ### Nothing new here
 
-There are a number of groups around the world who are developing there own cameras for use in Astronomy. The first part of this project will be a survey of those individuals and groups that have taken on projects of this kind.
+There are a number of groups around the world who are developing their own cameras for use in Astronomy. The first part of this project will be a *state of the art survey* to identify those individuals and groups that have taken on projects of this kind. 
 
 ### Then what?
 
