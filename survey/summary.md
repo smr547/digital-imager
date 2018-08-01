@@ -14,5 +14,7 @@ Surveying the internet for people and groups who are building their own cameras 
 ## Emerging Standards and tools
 List here standards and tools that are helping to facilitate the development of home made or open source imagers.
 
+* [Ascom](https://ascom-standards.org/) -- Windows-centric ``drivers`` for telescopes
+
 ## Historical contributions
 List here works that have made a significant contribution to the field
