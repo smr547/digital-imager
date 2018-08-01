@@ -1,4 +1,4 @@
-## Welcome to my Digital Imager project
+## Welcome to the Digital Imager project
 
 After 40 years working as a sofware engineer I'm keen to persue my old hobbies of Astronomy and instrument making. What better place to start than building a camera for a telescope.
 
