@@ -15,6 +15,7 @@ Surveying the internet for people and groups who are building their own cameras 
 List here standards and tools that are helping to facilitate the development of home made or open source imagers.
 
 * [Ascom](https://ascom-standards.org/) -- Windows-centric ``drivers`` for telescopes
+* [INDI](https://en.wikipedia.org/wiki/Instrument_Neutral_Distributed_Interface) -- distribute control system
 
 ## Historical contributions
 List here works that have made a significant contribution to the field
