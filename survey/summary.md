@@ -10,6 +10,8 @@ Surveying the internet for people and groups who are building their own cameras 
 
 * https://groups.google.com/forum/#!topic/b-a-s/m0QWAUQ-W_0
 
+## Sensor
+The sensor is a critical part of any digital imager. [Here](./sensors.md) is a summary of the sensors in use across various projects.
 
 ## Emerging Standards and tools
 List here standards and tools that are helping to facilitate the development of home made or open source imagers.
