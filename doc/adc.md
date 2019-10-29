@@ -18,6 +18,10 @@ all pixels on the CCD.
 * SClk - driven by master
 * SLoad - driven by master
 
+### Timing
+
+![Timing diagram](adc9826_serial_timing.png)
+
 ### Quiet state
 1. SLoad held HIGH by master
 1. SClk and SData, don't care
